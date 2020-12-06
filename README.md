@@ -1,1 +1,3 @@
-# burnet_dry_cleaners-1
+### Burnet Dry Cleaners
+
+This is a website I built for a small dry cleaning business.
